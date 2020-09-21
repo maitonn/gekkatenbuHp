@@ -1,3 +1,19 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "ja-jp"
+title = "月下舞踏"
+
+[params]
+    mainbg = "/images/title.jpg"
+    name = "maitonn"
+    mainTitle = "月下天舞"
+    mainText = "The Sky dance under the moon"
+
+[menus]
+    [[menu.main]]
+        identifier = "about"
+        name = "概要"
+        url = "#about"
+    [[menu.main]]
+        identifier = "skills"
+        name = "特徴"
+        url = "#skills"

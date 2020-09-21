@@ -1,0 +1,13 @@
+title = "新感覚3D弾幕アクションゲーム"
+
+text = """
+3次元をぴょんぴょん飛び回って弾幕を避ける
+アクションゲーム
+"""
+
+[[link]]
+    icon = "fab fa-twitter"
+    url = "#"
+[[link]]
+    icon = "fas fa-envelope"
+    url = "#"
